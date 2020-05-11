@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../BootOrderService/BootOrderServiceConsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BootUserService/BootUserServiceProvider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../CommonInterface/GmailInterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../OrderService/OrderServiceConsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>

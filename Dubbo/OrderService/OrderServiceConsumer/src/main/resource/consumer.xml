@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+		http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd
+		http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--包扫描-->
+    <context:component-scan base-package="com.ty.service.imp"></context:component-scan>
+    <!-- 消费方应用名，用于计算依赖关系，不是匹配条件，不要与提供方一样 -->
+    <dubbo:application name="order-service-consumer"  />
+
+    <!--2.指定注册中心得位置-->
+    <dubbo:registry address="zookeeper://127.0.0.1:2181"></dubbo:registry>
+
+    <!--3.声明需要调用得远程服务接口，生成远程服务代理-->
+    <dubbo:reference interface="com.ty.service.UserService" id="userService" version="1.0.1"></dubbo:reference>
+
+    <!--配置简易监控中心-->
+     <dubbo:monitor address="127.0.0.1:7070"></dubbo:monitor>
+
+    <!--配置消费者得统一规则-->
+    <dubbo:consumer check="false" timeout="1000"></dubbo:consumer>
+
+</beans>

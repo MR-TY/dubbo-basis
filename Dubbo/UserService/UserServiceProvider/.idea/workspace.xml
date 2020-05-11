@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c6c680e-1f39-480f-99e0-32156eef50af" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="lookForNested" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aR4B1WZeIMd5aqDs2q8hqHwl6Q" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BootUserService/BootUserServiceProvider/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ty" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Dubbo\BootUserService\BootUserServiceProvider\src\main\resources" />
+      <recent name="D:\Java\Dubbo\OrderService\OrderServiceConsumer\src\main\resource" />
+      <recent name="D:\Java\Dubbo\OrderService\OrderServiceConsumer\src\main\java\com\ty\service" />
+      <recent name="D:\Java\Dubbo\UserService\UserServiceProvider\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ty.bootuserserviceprovider" />
+      <recent name="com.ty.service.imp" />
+      <recent name="com.ty.bootuserserviceprovider.service.imp" />
+      <recent name="com.ty.bootorderserviceconsumer.service.imp" />
+      <recent name="com.ty.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Dubbo\UserService\UserServiceProvider\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BootorderserviceconsumerApplication">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ty.App" />
+      <module name="GmailInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ty.App" />
+      <module name="OrderServiceConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="UserServiceProvider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ty.App" />
+      <module name="UserServiceProvider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootorderserviceconsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BootOrderServiceConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ty.bootorderserviceconsumer.BootorderserviceconsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootuserserviceproviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bootuserserviceprovider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ty.bootuserserviceprovider.BootuserserviceproviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootuserserviceproviderApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bootuserserviceprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ty.bootuserserviceprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ty.bootuserserviceprovider.BootuserserviceproviderApplication1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootuserserviceproviderApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bootuserserviceprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ty.bootuserserviceprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ty.bootuserserviceprovider.BootuserserviceproviderApplication2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BootuserserviceproviderApplication2" />
+        <item itemvalue="Spring Boot.BootuserserviceproviderApplication1" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c6c680e-1f39-480f-99e0-32156eef50af" name="Default Changelist" comment="" />
+      <created>1586684932659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586684932659</updated>
+      <workItem from="1586684935334" duration="4035000" />
+      <workItem from="1587127515703" duration="241000" />
+      <workItem from="1588483918659" duration="1755000" />
+      <workItem from="1588485708999" duration="917000" />
+      <workItem from="1588486657639" duration="1909000" />
+      <workItem from="1588488586049" duration="679000" />
+      <workItem from="1588489282369" duration="6601000" />
+      <workItem from="1588498728074" duration="1134000" />
+      <workItem from="1588499877885" duration="3064000" />
+      <workItem from="1588568975374" duration="14923000" />
+      <workItem from="1588654216738" duration="18090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UserServiceProvider$App__2_.ic" NAME="App (2) Coverage Results" MODIFIED="1588502573319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ty.*</FILTER>
+    </SUITE>
+  </component>
+</project>
